@@ -23,6 +23,8 @@ O projeto consiste em um aplicativo Android simples contendo um formulário de c
 
 O formulário possui campos obrigatórios, opcionais e validações básicas
 
+![Tela do Aplicativo](Screenshot.png)
+
 ---
 
 # Funcionalidades
